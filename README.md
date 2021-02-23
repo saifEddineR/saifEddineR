@@ -10,7 +10,8 @@ __📝 Here my latest projects__
 __📫 How to reach me__
 - [Linkedin](https://www.linkedin.com)
 
-__⚡ Fun fact__
+__⚡ Fun fact about me__
+
  I love chess 🥰
 <!--
 **saifEddineR/saifEddineR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
