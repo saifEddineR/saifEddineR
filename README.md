@@ -3,7 +3,7 @@
 __📝 Here my latest projects__ 
 - [todo web app](https://github.com/saifEddineR/redux-todo)
 
--[movie web app](https://github.com/saifEddineR/movies)
+- [movie web app](https://github.com/saifEddineR/movies)
 
 __📫 How to reach me__
 - [Linkedin](https://www.linkedin.com)
