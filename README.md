@@ -1,6 +1,4 @@
- Hi there 👋 !
-
-I'm a FullStackJS web developer 
+ Hi there 👋 ! I'm a FullStackJS web developer 
 
 __📝 Here my latest projects__ 
 - [todo web app](https://github.com/saifEddineR/redux-todo)
