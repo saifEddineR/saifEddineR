@@ -9,7 +9,7 @@ __📫 How to reach me__
 - [Linkedin](https://www.linkedin.com)
 
 ⚡ Fun fact about me : 
- I love chess 🥰
+ I love chess ♟️
 <!--
 **saifEddineR/saifEddineR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
