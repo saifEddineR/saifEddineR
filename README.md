@@ -1,5 +1,12 @@
-### Hi there 👋
-
+ Hi there 👋 !
+I'm a FullStackJS web developer 
+__📝 Here my latest projects__ 
+- [todo web app](https://github.com/saifEddineR/redux-todo)
+-[movie web app](https://github.com/saifEddineR/movies)
+__📫 How to reach me__
+- [Linkedin](https://www.linkedin.com)
+__⚡ Fun fact__
+ I love chess 🥰
 <!--
 **saifEddineR/saifEddineR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
