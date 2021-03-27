@@ -5,8 +5,8 @@ __📝 Here my latest projects__
 
 - [movie web app](https://github.com/saifEddineR/movies)
 
-__📫 How to reach me__
-- [Linkedin](https://www.linkedin.com)
+__📫 My CV__
+- [CV](https://drive.google.com/file/d/1RCOMCDeFiAZJOMJV1ZQLjI8BCjeO4SoL/view?usp=sharing)
 
 ⚡ Fun fact about me : 
  I love chess ♟️
