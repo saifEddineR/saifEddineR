@@ -6,7 +6,7 @@ __📝 Here my latest projects__
 - [movie web app](https://github.com/saifEddineR/movies)
 
 __📫 My CV__
-- [CV](https://drive.google.com/file/d/1RCOMCDeFiAZJOMJV1ZQLjI8BCjeO4SoL/view?usp=sharing)
+- [CV]()
 
 ⚡ Fun fact about me : 
  I love chess ♟️
