@@ -1,12 +1,12 @@
  Hi there 👋 ! I'm a FullStackJS web developer 
 
 __📝 Here my latest projects__ 
-- [todo web app](https://github.com/saifEddineR/redux-todo)
+- [e-commerce website](https://github.com/saifEddineR/proShop)
 
 - [movie web app](https://github.com/saifEddineR/movies)
 
 __📫 My CV__
-- [CV](https://www.google.com)
+- [CV](https://drive.google.com/file/d/17sI_SbBsECQTH06ULYJh8Quz29FyoL-D/view?usp=sharing)
 
 ⚡ Fun fact about me : 
  I love chess ♟️
