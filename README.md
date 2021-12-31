@@ -5,10 +5,13 @@ __📝 Here my latest projects__
 - [e-commerce website](https://github.com/saifEddineR/proShop)
 
 - [movie web app](https://github.com/saifEddineR/movies)
-- 
+
  📫 How to reach me:
+
   [LinkedIn](https://www.linkedin.com/in/saif-eddine-romdhane/)
+
 __📫 My CV__
+
 - [CV](https://drive.google.com/file/d/1-807XtE85bZzjCds-4wE__iqdea01-Tl/view?usp=sharing)
 
 
