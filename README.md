@@ -1,18 +1,21 @@
- Hi there 👋 ! I'm a FullStack web developer (MERN stack)
- 🌱 I’m currently learning to becoming a Devops engineer
- 🔭 I'm a cyber security enthusiast
+ Hi there 👋 ! I'm a devops engineer and a fullstack web developer (MERN stack)
+ 🌱 I’m currently learning python and bash scripting.
+ 🔭 I'm also a cyber security enthusiast
 __📝 Here my latest projects__ 
+
+--Solar energy company's website :
+- [front-end](https://github.com/saifEddineR/solarEnergy_frontend)
+- [back-end](https://github.com/saifEddineR/solarEnergy_backend)
+
 - [e-commerce website](https://github.com/saifEddineR/proShop)
 
-- [movie web app](https://github.com/saifEddineR/movies)
-
  📫 How to reach me:
-
+ email : saif.romdhane96@gmail.com
   [LinkedIn](https://www.linkedin.com/in/saif-eddine-romdhane/)
 
 __📫 My CV__
 
-- [CV](https://drive.google.com/file/d/1-807XtE85bZzjCds-4wE__iqdea01-Tl/view?usp=sharing)
+- [CV]([https://drive.google.com/file/d/1-807XtE85bZzjCds-4wE__iqdea01-Tl/view?usp=sharing](https://drive.google.com/file/d/1HOuejQFRVRAaxxiZ-2HdoxKTwvdFVT1r/view?usp=sharing))
 
 
 ⚡ Fun fact about me : 
