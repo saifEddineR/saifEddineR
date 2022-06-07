@@ -1,6 +1,9 @@
  Hi there 👋 ! I'm a devops engineer and a fullstack web developer (MERN stack)
+ 
  🌱 I’m currently learning python and bash scripting.
+ 
  🔭 I'm also a cyber security enthusiast
+ 
 __📝 Here my latest projects__ 
 
 --Solar energy company's website :
