@@ -7,7 +7,7 @@ __📝 Here my latest projects__
 - [front-end](https://github.com/saifEddineR/solarEnergy_frontend)
 - [back-end](https://github.com/saifEddineR/solarEnergy_backend)
 
-- [e-commerce website](https://github.com/saifEddineR/proShop)
+- e-commerce website : [e-commerce website](https://github.com/saifEddineR/proShop)
 
  📫 How to reach me:
  email : saif.romdhane96@gmail.com
@@ -15,7 +15,7 @@ __📝 Here my latest projects__
 
 __📫 My CV__
 
-- [CV]([https://drive.google.com/file/d/1-807XtE85bZzjCds-4wE__iqdea01-Tl/view?usp=sharing](https://drive.google.com/file/d/1HOuejQFRVRAaxxiZ-2HdoxKTwvdFVT1r/view?usp=sharing))
+- [CV](https://drive.google.com/file/d/1HOuejQFRVRAaxxiZ-2HdoxKTwvdFVT1r/view?usp=sharing)
 
 
 ⚡ Fun fact about me : 
