@@ -4,7 +4,7 @@
  
  🔭 I'm also a cyber security enthusiast
  
-__📝 Here my latest projects__ 
+__📝 These are my latest projects__ 
 
 --Solar energy company's website :
 - [front-end](https://github.com/saifEddineR/solarEnergy_frontend)
