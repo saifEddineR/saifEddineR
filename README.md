@@ -1,6 +1,6 @@
  Hi there 👋 ! I'm a devops engineer and a fullstack web developer (MERN stack)
  
- 🌱 I’m currently learning python for bash scripting.
+ 🌱 I’m currently learning ansible.
  
  🔭 I'm also a cyber security enthusiast
  
@@ -18,7 +18,7 @@ __📝 These are my latest projects__
 
 __📫 My CV__
 
-- [CV](https://drive.google.com/file/d/1HOuejQFRVRAaxxiZ-2HdoxKTwvdFVT1r/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/14TEPh0xnnnR-wqFarh6NH-IAXDUEm4Aw/view?usp=sharing)
 
 
 ⚡ Fun fact about me : 
