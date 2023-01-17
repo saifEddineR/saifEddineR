@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saif.romdhane96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14TEPh0xnnnR-wqFarh6NH-IAXDUEm4Aw/view?usp=sharing](https://drive.google.com/file/d/14TEPh0xnnnR-wqFarh6NH-IAXDUEm4Aw/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/14TEPh0xnnnR-wqFarh6NH-IAXDUEm4Aw/view?usp=sharing)
 
 - ⚡ Fun fact **I love chess**
 
