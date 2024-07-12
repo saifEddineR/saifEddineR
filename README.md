@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saif eddine romdhane</h1>
 <h3 align="center">A passionate devops engineer and a fullstack developer</h3>
 
-- 🔭 I’m currently working on **building my devops knowledge**
+- 🔭 I’m currently working on **advancing my knowledge as a fullstack web developer**
 
-- 🌱 I’m currently learning **ansible**
+- 🌱 I’m currently learning **Nestjs and Nextjs**
 
 - 📫 How to reach me **saif.romdhane96@gmail.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/199QOuAkjMQTXKv_vzcbzfZ7SKy4MuTRb/view?usp=sharing)
-
-- ⚡ Fun fact **I love chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
